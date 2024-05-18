@@ -36,6 +36,6 @@ Ao executar o programa, siga os seguintes passos:
 
 ## Instalação dos Plugins
 
-Instale o Plugin **StereoSound.plugin.js** e a configuração **StereoSound.config.json**. Os arquivos estão [aqui].(https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins)
+Instale o Plugin **StereoSound.plugin.js** e a configuração **StereoSound.config.json**. Os arquivos estão [aqui](https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins).
 
 ## Ativação dos Plugins
