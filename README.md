@@ -10,9 +10,9 @@ No entanto, o **áudio estéreo** não está disponível nativamente no Discord.
 
 1. [Instalação do Better Discord](#instalação-do-better-discord)
 
-2. [Instalação dos Plugins](#instalação-dos-plugins)
+2. [Instalação do Plugins](#instalação-dos-plugins)
 
-3. [Ativação dos Plugins](#ativação-dos-plugins)
+3. [Ativação do Plugins](#ativação-dos-plugins)
 
 ## Instalação do Better Discord
 
