@@ -18,7 +18,7 @@ No entanto, o **áudio estéreo** não está disponível nativamente no Discord.
 
 O **BetterDiscord** é um aplicativo de terceiros que permite aos usuários do Discord personalizarem a experiência do aplicativo de diversas maneiras. Ele funciona como uma extensão que adiciona recursos e funcionalidades extras ao Discord, não disponíveis na versão nativa.
 
-Faça o download do **BetterDicord** [aqui](better) ou baixe no site oficial: https://betterdiscord.app
+Faça o download do **BetterDicord** [aqui](https://github.com/matheusaudibert/Discord_StereoSound/blob/main/betterdiscord/BetterDiscord-Windows.exe) ou baixe no site oficial: https://betterdiscord.app
 
 ## Configuração do Better Discord
 
