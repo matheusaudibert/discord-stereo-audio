@@ -20,6 +20,22 @@ O **BetterDiscord** é um aplicativo de terceiros que permite aos usuários do D
 
 Faça o download do **BetterDicord** [aqui](https://github.com/matheusaudibert/Discord_StereoSound/blob/main/betterdiscord/BetterDiscord-Windows.exe) ou baixe no site oficial: https://betterdiscord.app
 
+Ao executar o programa, siga os seguintes passos:
+
+- Aceite os termos e condições e prossiga.
+
+![Logo](images/page1.png)
+
+- Selecione a Opção **Install BetterDicord**.
+
+![Logo](images/page2.png)
+
+- Selecione a sua versão do **Discord**.
+
+![Logo](images/page3.png)
+
 ## Instalação dos Plugins
+
+Instale o Plugin **StereoSound.plugin.js** e a configuração **StereoSound.config.json**. Os arquivos estão [aqui].(https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins)
 
 ## Ativação dos Plugins
