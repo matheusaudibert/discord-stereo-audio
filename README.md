@@ -4,7 +4,7 @@ O **áudio estéreo** no **Discord** permite que você ouça o som de outras pes
 
 No entanto, o **áudio estéreo** não está disponível nativamente no Discord. Para habilitá-lo, você precisa usar um plugin de terceiros, como o **StereoSound.plugin.js** em conjunto com o **BetterDiscord**.
 
-![Logo](images/1.png)
+![Logo](images/betterdiscord.png)
 
 ## Índice
 
