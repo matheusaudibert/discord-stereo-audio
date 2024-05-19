@@ -2,7 +2,7 @@
 
 O **áudio estéreo** no **Discord** permite que você ouça o som de outras pessoas com mais clareza e realismo, proporcionando uma experiência de voz mais imersiva. Em vez de um único canal de áudio mono, o som é dividido em dois canais separados, cada um representando um lado do seu fone de ouvido.
 
-No entanto, o **áudio estéreo** não está disponível nativamente no Discord. Para habilitá-lo, você precisa usar um plugin de terceiros, como o **StereoSound.plugin.js** em conjunto com o **BetterDiscord**.
+No entanto, o **áudio estéreo** não está disponível nativamente no Discord. Para habilitá-lo, você precisa usar um plugin de terceiros, como o **StereoSound.plugin.js** e o **0PluginLibrary.plugin.js** em conjunto com o **BetterDiscord**.
 
 Também será necessário ter um aplicativo que gerencie as faixas de áudio, para isso séra usado o **Voicemeeter Banana**, o tutorial de instalação e configuração deste aplicativo está neste repositório: [voicemeeter_banana](https://github.com/matheusaudibert/voicemeeter_banana)
 
@@ -40,7 +40,7 @@ Ao executar o programa, siga os seguintes passos:
 
 Instale os Plugins. Os arquivos estão [aqui](https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins).
 
-Crie uma pasta chamada Plugins e mova os arquivos para a pasta.
+Crie uma pasta chamada Arquivos e mova os arquivos para a pasta.
 
 ## Ativação dos Plugins
 
@@ -54,4 +54,4 @@ Para ativar os Plugins, abra o Discord, com o BetterDiscord já instalado, e vá
 
 ![Logo](images/bd_plugins.png)
 
--
+- Mova os **plugins** da pasta **Arquivos**, para a pasta **Plugins do Discord**.
