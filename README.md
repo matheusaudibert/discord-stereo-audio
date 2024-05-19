@@ -86,5 +86,6 @@ Guia de instalação do [Voicemeeter_Banana](https://github.com/matheusaudibert/
 
 Para a construção deste repositório foram usadas as seguintes referências.
 
+Voicemeeter Banana - https://github.com/matheusaudibert/voicemeeter_banana
 ZeresPluginLibrary - https://betterdiscord.app/plugin/ZeresPluginLibrary
 Stereo - https://github.com/sh6un/Stereo
