@@ -40,7 +40,7 @@ Ao executar o programa, siga os seguintes passos:
 
 ![Logo](images/page3.png)
 
-## Configuração do Dicord
+## Configuração do Discord
 
 Com o BetterDiscord instalado, abra o Discord.
 
