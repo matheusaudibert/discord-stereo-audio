@@ -43,3 +43,15 @@ Instale o Plugin **StereoSound.plugin.js** e a configuração **StereoSound.conf
 Crie uma pasta chamada Plugins e mova os arquivos para a pasta.
 
 ## Ativação dos Plugins
+
+Para ativar o Plugin, abra o Discord, com o BetterDiscord já instalado, e vá até **configurações**.
+
+- Localize a configuração **Plugin**.
+
+![Logo](images/bd_settings.png)
+
+- Abra a pasta de **Plugins** do Discord.
+
+![Logo](images/bd_plugins.png)
+
+-
