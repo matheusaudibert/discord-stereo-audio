@@ -10,15 +10,17 @@ Também será necessário ter um aplicativo que gerencie as faixas de áudio, pa
 
 ## Índice
 
-1. [Instalação do Better Discord](#instalação-do-better-discord)
+1. [Instalação do BetterDiscord](#instalação-do-betterdiscord)
 
-2. [Instalação dos Plugins](#instalação-dos-plugins)
+2. [Configuração do Discord](#configuração-do-discord)
 
-3. [Ativação dos Plugins](#ativação-dos-plugins)
+3. [Instalação dos Plugins](#instalação-dos-plugins)
 
-4. [Referências](#referências)
+4. [Ativação dos Plugins](#ativação-dos-plugins)
 
-## Instalação do Better Discord
+5. [Referências](#referências)
+
+## Instalação do BetterDiscord
 
 O **BetterDiscord** é um aplicativo de terceiros que permite aos usuários do Discord personalizarem a experiência do aplicativo de diversas maneiras. Ele funciona como uma extensão que adiciona recursos e funcionalidades extras ao Discord, não disponíveis na versão nativa.
 
@@ -37,6 +39,18 @@ Ao executar o programa, siga os seguintes passos:
 - Selecione a sua versão do **Discord**.
 
 ![Logo](images/page3.png)
+
+## Configuração do Dicord
+
+Com o BetterDiscord instalado, abra o Discord.
+
+- Localize a configuração **Voz e vídeo**.
+
+![Logo](images/d_settings.png)
+
+- Desative o **Cancelamento de eco** e selecione o opção **nenhum** em **Supressão de ruído**.
+
+![Logo](images/d_voice.png)
 
 ## Instalação dos Plugins
 
@@ -66,7 +80,7 @@ Para ativar os Plugins, abra o Discord, com o BetterDiscord já instalado, e vá
 
 Após isso, os plugins ja estarão ativos e funcionando, e seu áudio estará estéreo. Lembrando que é necessário ter um gerenciador de áudio.
 
-Guia de instalação do [Voicemeeter_Banana].(https://github.com/matheusaudibert/voicemeeter_banana)
+Guia de instalação do [Voicemeeter_Banana](https://github.com/matheusaudibert/voicemeeter_banana).
 
 ## Referências
 
