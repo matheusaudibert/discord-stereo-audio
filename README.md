@@ -12,9 +12,9 @@ Também será necessário ter um aplicativo que gerencie as faixas de áudio, pa
 
 1. [Instalação do Better Discord](#instalação-do-better-discord)
 
-2. [Instalação do Plugins](#instalação-dos-plugins)
+2. [Instalação dos Plugins](#instalação-dos-plugins)
 
-3. [Ativação do Plugins](#ativação-dos-plugins)
+3. [Ativação dos Plugins](#ativação-dos-plugins)
 
 ## Instalação do Better Discord
 
@@ -38,15 +38,15 @@ Ao executar o programa, siga os seguintes passos:
 
 ## Instalação dos Plugins
 
-Instale o Plugin **StereoSound.plugin.js** e a configuração **StereoSound.config.json**. Os arquivos estão [aqui](https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins).
+Instale os Plugins. Os arquivos estão [aqui](https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins).
 
 Crie uma pasta chamada Plugins e mova os arquivos para a pasta.
 
 ## Ativação dos Plugins
 
-Para ativar o Plugin, abra o Discord, com o BetterDiscord já instalado, e vá até **configurações**.
+Para ativar os Plugins, abra o Discord, com o BetterDiscord já instalado, e vá até **configurações**.
 
-- Localize a configuração **Plugin**.
+- Localize a configuração **Plugins**.
 
 ![Logo](images/bd_settings.png)
 
