@@ -90,4 +90,4 @@ Voicemeeter Banana - https://github.com/matheusaudibert/voicemeeter_banana
 
 ZeresPluginLibrary - https://betterdiscord.app/plugin/ZeresPluginLibrary
 
-Stereo - https://github.com/sh6un/Stereo
+StereoSound - https://github.com/sh6un/Stereo
