@@ -40,7 +40,7 @@ Ao executar o programa, siga os seguintes passos:
 
 Instale os Plugins. Os arquivos estão [aqui](https://github.com/matheusaudibert/Discord_StereoSound/tree/main/plugins).
 
-Crie uma pasta chamada Arquivos e mova os arquivos para a pasta.
+Crie uma pasta chamada **Arquivos_Plugins** e mova os arquivos para a pasta.
 
 ## Ativação dos Plugins
 
@@ -54,4 +54,10 @@ Para ativar os Plugins, abra o Discord, com o BetterDiscord já instalado, e vá
 
 ![Logo](images/bd_plugins.png)
 
-- Mova os **plugins** da pasta **Arquivos**, para a pasta **Plugins do Discord**.
+- Mova os **plugins** da pasta **Arquivos_Plugins**, para a pasta **Plugins do Discord**.
+
+![Logo](images/bd_activate.png)
+
+- Habilite os **plugins**.
+
+![Logo](images/toggle.png)
