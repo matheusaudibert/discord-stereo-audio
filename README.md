@@ -80,7 +80,7 @@ Para ativar os Plugins, abra o Discord, com o BetterDiscord já instalado, e vá
 
 Após isso, os plugins ja estarão ativos e funcionando, e seu áudio estará estéreo. Lembrando que é necessário ter um gerenciador de áudio.
 
-Guia de instalação do [Voicemeeter Banana](https://github.com/matheusaudibert/voicemeeter_banana).
+Guia de instalação do [Voicemeeter Banana](https://github.com/matheusaudibert/voicemeeter-banana-setup).
 
 ## Referências
 
